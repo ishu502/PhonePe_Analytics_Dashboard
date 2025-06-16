@@ -11,7 +11,7 @@ transactions_df = pd.read_csv("transactions.csv")
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Iswarya#01",
+    password="YourPassword",
     database="phonepeDB"
 )
 cursor = conn.cursor()
