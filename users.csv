@@ -1,0 +1,201 @@
+UserID,State,Age,Gender
+U0001,Gujarat,39,Male
+U0002,Karnataka,28,Other
+U0003,Delhi,33,Other
+U0004,Tamil Nadu,50,Male
+U0005,Gujarat,26,Female
+U0006,West Bengal,23,Male
+U0007,Maharashtra,33,Other
+U0008,Gujarat,46,Other
+U0009,Delhi,20,Female
+U0010,Tamil Nadu,37,Other
+U0011,Karnataka,53,Male
+U0012,Delhi,36,Female
+U0013,Delhi,43,Male
+U0014,Maharashtra,20,Male
+U0015,Kerala,36,Female
+U0016,Tamil Nadu,37,Male
+U0017,Telangana,49,Other
+U0018,Delhi,24,Male
+U0019,Kerala,58,Female
+U0020,Telangana,50,Female
+U0021,Tamil Nadu,57,Female
+U0022,Andhra Pradesh,56,Male
+U0023,West Bengal,35,Female
+U0024,Kerala,57,Female
+U0025,Rajasthan,18,Male
+U0026,Andhra Pradesh,28,Other
+U0027,West Bengal,45,Male
+U0028,Maharashtra,42,Female
+U0029,Gujarat,40,Female
+U0030,Karnataka,48,Male
+U0031,Rajasthan,47,Other
+U0032,Maharashtra,59,Female
+U0033,Tamil Nadu,52,Female
+U0034,Maharashtra,24,Female
+U0035,Gujarat,33,Male
+U0036,Tamil Nadu,43,Female
+U0037,Rajasthan,19,Other
+U0038,Gujarat,18,Female
+U0039,Telangana,29,Female
+U0040,Karnataka,22,Other
+U0041,Rajasthan,54,Female
+U0042,Telangana,49,Male
+U0043,West Bengal,26,Male
+U0044,Rajasthan,58,Male
+U0045,West Bengal,52,Other
+U0046,Tamil Nadu,36,Female
+U0047,Telangana,33,Male
+U0048,Karnataka,20,Other
+U0049,Gujarat,37,Female
+U0050,Delhi,41,Other
+U0051,Maharashtra,50,Male
+U0052,Andhra Pradesh,41,Male
+U0053,Karnataka,28,Male
+U0054,Telangana,25,Other
+U0055,Delhi,53,Other
+U0056,Karnataka,55,Male
+U0057,Telangana,57,Other
+U0058,Kerala,37,Male
+U0059,Kerala,52,Male
+U0060,West Bengal,42,Female
+U0061,Karnataka,52,Other
+U0062,Kerala,42,Male
+U0063,Telangana,46,Male
+U0064,West Bengal,35,Other
+U0065,Telangana,35,Female
+U0066,West Bengal,19,Female
+U0067,Karnataka,52,Male
+U0068,Delhi,33,Other
+U0069,Gujarat,58,Female
+U0070,Rajasthan,53,Other
+U0071,Delhi,50,Other
+U0072,Tamil Nadu,21,Male
+U0073,Telangana,50,Female
+U0074,Tamil Nadu,31,Male
+U0075,Delhi,38,Female
+U0076,West Bengal,37,Female
+U0077,Rajasthan,25,Female
+U0078,Rajasthan,24,Female
+U0079,Andhra Pradesh,20,Female
+U0080,Rajasthan,34,Other
+U0081,Gujarat,50,Male
+U0082,Rajasthan,29,Other
+U0083,Delhi,39,Female
+U0084,Andhra Pradesh,39,Male
+U0085,Delhi,47,Female
+U0086,Delhi,55,Male
+U0087,Maharashtra,55,Other
+U0088,Andhra Pradesh,25,Male
+U0089,Delhi,44,Male
+U0090,Maharashtra,44,Male
+U0091,Maharashtra,51,Male
+U0092,Andhra Pradesh,38,Male
+U0093,Tamil Nadu,47,Female
+U0094,West Bengal,50,Male
+U0095,Gujarat,45,Male
+U0096,West Bengal,50,Other
+U0097,Rajasthan,22,Male
+U0098,Gujarat,36,Other
+U0099,Rajasthan,21,Female
+U0100,Delhi,52,Male
+U0101,Telangana,34,Other
+U0102,Andhra Pradesh,45,Other
+U0103,Gujarat,47,Female
+U0104,Gujarat,46,Male
+U0105,Delhi,23,Male
+U0106,Tamil Nadu,52,Other
+U0107,Maharashtra,58,Male
+U0108,Delhi,54,Other
+U0109,Kerala,41,Male
+U0110,Maharashtra,46,Other
+U0111,Andhra Pradesh,48,Male
+U0112,Maharashtra,52,Female
+U0113,Tamil Nadu,50,Male
+U0114,Maharashtra,38,Male
+U0115,Andhra Pradesh,49,Female
+U0116,Tamil Nadu,40,Male
+U0117,West Bengal,50,Female
+U0118,Gujarat,20,Male
+U0119,Gujarat,35,Other
+U0120,Rajasthan,42,Other
+U0121,West Bengal,59,Male
+U0122,West Bengal,48,Male
+U0123,Maharashtra,20,Male
+U0124,Gujarat,57,Other
+U0125,Andhra Pradesh,41,Male
+U0126,Karnataka,49,Other
+U0127,Karnataka,39,Female
+U0128,Tamil Nadu,40,Other
+U0129,Gujarat,19,Other
+U0130,Gujarat,44,Female
+U0131,Karnataka,59,Other
+U0132,Gujarat,19,Male
+U0133,Maharashtra,43,Male
+U0134,Kerala,34,Other
+U0135,Telangana,57,Male
+U0136,West Bengal,50,Other
+U0137,Rajasthan,26,Male
+U0138,Tamil Nadu,56,Male
+U0139,Kerala,46,Other
+U0140,Karnataka,59,Male
+U0141,West Bengal,43,Other
+U0142,Gujarat,52,Male
+U0143,Rajasthan,42,Male
+U0144,Gujarat,41,Female
+U0145,Andhra Pradesh,30,Female
+U0146,Andhra Pradesh,24,Other
+U0147,Rajasthan,53,Female
+U0148,Rajasthan,37,Other
+U0149,Karnataka,18,Female
+U0150,Rajasthan,25,Male
+U0151,Maharashtra,33,Other
+U0152,Gujarat,31,Other
+U0153,Kerala,29,Male
+U0154,Delhi,40,Other
+U0155,Rajasthan,32,Other
+U0156,Tamil Nadu,45,Female
+U0157,Andhra Pradesh,51,Other
+U0158,Maharashtra,19,Male
+U0159,West Bengal,49,Female
+U0160,Delhi,40,Female
+U0161,Kerala,39,Male
+U0162,Delhi,42,Male
+U0163,Rajasthan,39,Female
+U0164,Karnataka,39,Other
+U0165,Andhra Pradesh,59,Female
+U0166,Andhra Pradesh,23,Male
+U0167,West Bengal,32,Female
+U0168,Karnataka,54,Male
+U0169,Gujarat,50,Female
+U0170,Telangana,25,Other
+U0171,Maharashtra,22,Female
+U0172,Andhra Pradesh,56,Female
+U0173,Tamil Nadu,21,Male
+U0174,Andhra Pradesh,23,Male
+U0175,Delhi,49,Male
+U0176,Andhra Pradesh,47,Female
+U0177,Andhra Pradesh,52,Other
+U0178,Telangana,57,Male
+U0179,Telangana,33,Male
+U0180,Kerala,30,Female
+U0181,Gujarat,59,Male
+U0182,Tamil Nadu,47,Other
+U0183,Andhra Pradesh,36,Other
+U0184,Andhra Pradesh,34,Male
+U0185,Maharashtra,36,Male
+U0186,Telangana,45,Female
+U0187,Tamil Nadu,43,Other
+U0188,West Bengal,54,Other
+U0189,Kerala,43,Male
+U0190,Gujarat,40,Female
+U0191,Karnataka,26,Other
+U0192,Gujarat,29,Other
+U0193,Delhi,18,Female
+U0194,Andhra Pradesh,18,Female
+U0195,Kerala,51,Other
+U0196,Delhi,49,Other
+U0197,Tamil Nadu,42,Female
+U0198,Karnataka,57,Other
+U0199,Telangana,18,Male
+U0200,Kerala,33,Male
